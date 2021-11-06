@@ -1,6 +1,6 @@
 Hi 👋 I am Camytha,
 
-I am BSMEE graduate from University of Arizona and Sampoerna University. 
+I am a BSMEE graduate from University of Arizona and Sampoerna University. 
 
 - 📫 Currently, I join a data science bootcamp at dibimbing.id. I learn about data type and structure, statistics, data cleaning, data manipulation, data visualization, Exploratory Data 
 Analysis (EDA), regression, etc.
